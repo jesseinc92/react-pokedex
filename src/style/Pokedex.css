@@ -1,0 +1,14 @@
+.Pokedex {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Pokedex h1 {
+    text-align: center;
+}
+
+.Pokedex-card-container {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
